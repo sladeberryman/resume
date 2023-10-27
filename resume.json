@@ -1,0 +1,36 @@
+{
+    "name": "David Slade Berryman",
+    "email": "slade12berryman@gmail.com",
+    "phone": "256-856-3669",
+    "education": [
+      {
+        "degree": "BBA - Computer Information Systems",
+        "university": "University of North Alabama",
+        "year": "2024"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Data Science Intern",
+        "company": "nSide - The School Safety Platform",
+        "duration": "2021 - Present",
+        "description": "Developed web applications for process automation."
+      },
+      {
+        "position": "Student Reasearch Assistant",
+        "company": "Center for Sports Analytics - UNA",
+        "duration": "2022 - 2023",
+        "description": "Conducted statistical analysis on projects for UNA basketball and football teams"
+      }
+    ],
+    "skills": [
+      "Web Development",
+      "Python",
+      "Statistical Analysis",
+      "Geospatial Application Development",
+      "API Creation",
+      "Python Package Development",
+      "Process Automation",
+      "Web Scraping"
+    ]
+  }
