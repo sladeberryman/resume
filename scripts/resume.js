@@ -5,13 +5,10 @@ $(document).ready(function() {
 
         // Name
         html += '<h1>' + data.name + '</h1>';
-        html += '<hr>';
 
         // Contact Information
-        html += '<h2>Contact Information:</h2>';
         html += '<div class="resume-section">';
-        html += '<p>' + data.email + '</p>';
-        html += '<p>' + data.phone + '</p>';
+        html += '<p>' + data.email + ' | ' + data.phone + '</p>';
         html += '</div>';
         html += '<hr>';
 
