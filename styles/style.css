@@ -1,0 +1,76 @@
+/* Overall layout */
+.container {
+    max-width: 2000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #eef0f1;
+}
+
+.top-header {
+    text-align: center;
+}
+  
+/* Headings */
+h1 {
+    font-size: 28px;
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    color: black;
+}
+
+h3 {
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+
+h4 {
+    font-size: 18px;
+    color: black;
+}
+
+/* Contact Information section */
+.resume-section {
+    margin-bottom: 10px;
+}
+
+/* Education and Work Experience sections */
+.resume-section p {
+    padding-left: 25px 0;
+}
+
+.education-info {
+    margin-left: 20px; /* Adjust the value as needed */
+  }
+
+/* Skills section */
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 5px;
+    color: black;
+}
+
+/* Horizontal rule */
+hr {
+    border: none;
+    border-top: 1px solid #111010;
+    margin: 20px 0;
+}
+
+/* Links */
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

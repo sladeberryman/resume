@@ -1,0 +1,28 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "linkedIn": "",
+    "education": [
+      {
+        "degree": "",
+        "university": "",
+        "startYear": "",
+        "endYear": "",
+        "gpa": ""
+      }
+    ],
+    "experience": [
+      {
+        "position": "",
+        "company": "",
+        "duration": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      "",
+      "",
+      ""
+    ]
+  }
