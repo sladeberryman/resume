@@ -3,27 +3,34 @@
     max-width: 2000px;
     margin: 0 auto;
     padding: 20px;
+    background-color: #eef0f1;
+}
+
+.top-header {
+    text-align: center;
 }
   
 /* Headings */
 h1 {
     font-size: 28px;
-    color: #333;
+    color: black;
+    text-align: center;
 }
 
 h2 {
     font-size: 24px;
-    color: #555;
+    color: black;
 }
 
 h3 {
     font-size: 20px;
-    color: #777;
+    color: black;
+    text-align: center;
 }
 
 h4 {
     font-size: 18px;
-    color: #888;
+    color: black;
 }
 
 /* Contact Information section */
@@ -33,25 +40,28 @@ h4 {
 
 /* Education and Work Experience sections */
 .resume-section p {
-    margin: 5px 0;
+    padding-left: 25px 0;
 }
+
+.education-info {
+    margin-left: 20px; /* Adjust the value as needed */
+  }
 
 /* Skills section */
 ul {
-    list-style-type: none;
     margin: 0;
     padding: 0;
 }
 
 ul li {
     margin-bottom: 5px;
-    color: #555;
+    color: black;
 }
 
 /* Horizontal rule */
 hr {
     border: none;
-    border-top: 1px solid #ddd;
+    border-top: 1px solid #111010;
     margin: 20px 0;
 }
 
