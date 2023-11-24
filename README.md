@@ -1,6 +1,7 @@
 # Easy Resume Website Template!
 ## INSTRUCTIONS:
 - Be sure to have your own free GitHub account before starting
+- If you don't have a LinkedIn account, **STOP** here and make one!
 - Keep the instructions open in this tab, and [open the repo in another tab](https://github.com/sladeberryman/resume-template)
 - At the top of the screen click the "Fork" button
    * Only change the repo name if you must
@@ -23,7 +24,6 @@
    * This includes the main sections and the data points inside of them
 - In resume.json, click the edit button (the pen) and replace my data with yours
    * if you are having issues with formatting at any point, take a couple minutes to [read this](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
-- If you don't have a LinkedIn account, **STOP** here and make one!
 - Click the "Commit changes" button (to the main branch)
 - Navigate to the main repository folder, then click the settings button at the top of the page
 - Click "Pages" on the left side
