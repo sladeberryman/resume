@@ -10,6 +10,14 @@
 - Click on the README.md file
    * You can click the three dots in the top right to delete this file, or change it to say what you want by clicking the pen button.
    * click the green "Commit changes" button
+- Create a new branch
+   * Click on the branch dropdown that should say "main"
+   * Click "View all branches"
+   * Click "New Branch"
+   * Name it whatever you want
+   * Make sure the new branch's source is **YOUR** repository and main branch
+   * Click "Create new branch"
+- You should complete the following steps in your new branch
 - Click on resume.json
    * I know this may look complicated, but we will get the hang of it quickly
    * Let's come back to this shortly
@@ -27,7 +35,7 @@
 - Click the "Commit changes" button (to the main branch)
 - Navigate to the main repository folder, then click the settings button at the top of the page
 - Click "Pages" on the left side
-- Under "Branch", change "None" in the dropdown to "main" then "Save"
+- Under "Branch", change "None" in the dropdown to the name of your new branch (not main) then "Save"
 - Navigate back to the main repo folder
 - Click the gear button beside the "About" section
 - Under "Website" make sure "Use your GitHub Pages website" is checked
