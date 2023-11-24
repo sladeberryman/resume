@@ -1,5 +1,6 @@
 # Easy Resume Website Template!
 ## INSTRUCTIONS:
+- Be sure to have your own free GitHub account before starting
 - Keep the instructions open in this tab, and [open the repo in another tab](https://github.com/sladeberryman/resume-template)
 - At the top of the screen click the "Fork" button
    * Only change the repo name if you must
